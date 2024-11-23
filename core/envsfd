@@ -1,0 +1,22 @@
+# DEBUG=
+
+# SECRET_KEY=
+
+# POSTGRES_DB=
+# POSTGRES_USER=
+# POSTGRES_PASSWORD=
+# POSTGRES_HOST=
+# POSTGRES_PORT=
+
+
+# Django settings
+DEBUG=True  # Set to False in production
+
+SECRET_KEY=5d&*3$1b1q@4g-!a79$sj_rguv=lk^1z8tp%9
+
+# MySQL database settings (XAMPP default configuration)
+MYSQL_DB=lbs
+MYSQL_USER=root
+MYSQL_PASSWORD=  # Leave empty if no password is set for root in XAMPP
+MYSQL_HOST=127.0.0.1  # Use '127.0.0.1' instead of 'localhost' to avoid socket issues
+MYSQL_PORT=3306  # Default MySQL port for XAMPP
